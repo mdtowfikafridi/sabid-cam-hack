@@ -1,4 +1,4 @@
-#!/usr/bin/env python3#-*- coding: utf-8 -*-#github.com/mdtowfikafridi/sabid-cam-hack import requests, re , coloramacolorama.init()print("""\033[1;31m\033[1;37m ┏━━━┓ ┏━━━┓ ┏━━┓︱ ┏━━┓ ┏━━━┓
+#!/usr/bin/env python3#-*- coding: utf-8 -*-#github.com/AngelSecurityTeam/Cam-Hackers import requests, re , coloramacolorama.init()print("""\033[1;31m\033[1;37m ┏━━━┓ ┏━━━┓ ┏━━┓︱ ┏━━┓ ┏━━━┓
 ┃┏━┓┃ ┃┏━┓┃ ┃┏┓┃︱ ┗┫┣┛ ┗┓┏┓┃
 ┃┗━━┓ ┃┃︱┃┃ ┃┗┛┗┓ ︱┃┃︱ ︱┃┃┃┃
 ┗━━┓┃ ┃┗━┛┃ ┃┏━┓┃ ︱┃┃︱ ︱┃┃┃┃
